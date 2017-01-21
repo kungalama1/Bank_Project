@@ -1,0 +1,112 @@
+Checking Account  Customer Statement Blake McGrath 2017-01-07
+  1   $    303.00 2016-12-08 20:12 Wire Transfer From ABC100066
+  2   $    354.00 2016-12-08 20:12 Wire Transfer From ABC100077
+  3   $   -180.00 2016-12-08 20:12 Wire Transfer To ABC100009
+  4   $    -94.00 2016-12-08 20:12 Bill payment for Phone
+  5   $    399.00 2016-12-08 20:12 Wire Transfer From ABC100043
+  6   $   -270.00 2016-12-08 20:12 Wire Transfer To ABC100005
+  7   $    230.00 2016-12-08 20:12 Wire Transfer From ABC100056
+  8   $ 29,215.00 2016-12-08 20:12 Deposit
+  9   $ -1,200.00 2016-12-08 20:12 Withdrawal
+ 10   $  4,314.00 2016-12-08 20:12 Deposit
+ 11   $    -71.00 2016-12-08 20:12 Bill payment for Magazine Subscription
+ 12   $ 38,341.00 2016-12-08 20:12 Deposit
+ 13   $ 23,972.00 2016-12-08 20:12 Deposit
+ 14   $    -62.00 2016-12-08 20:12 Bill payment for Water
+ 15   $  1,330.00 2016-12-08 20:12 Deposit
+ 16   $    -66.00 2016-12-08 20:12 Bill payment for Internet
+ 17   $ 19,110.00 2016-12-08 20:12 Deposit
+ 18   $ 49,795.00 2016-12-08 20:12 Deposit
+ 19   $    -95.00 2016-12-08 20:12 Bill payment for Gardening Service
+ 20   $ 24,991.00 2016-12-08 20:12 Deposit
+ 21   $   -277.00 2016-12-08 20:12 Wire Transfer To ABC100012
+ 22   $ -4,000.00 2016-12-08 20:12 Withdrawal
+ 23   $ -3,800.00 2016-12-08 20:12 Withdrawal
+ 24   $    441.00 2016-12-08 20:12 Wire Transfer From ABC100008
+ 25   $ -4,000.00 2016-12-08 20:12 Withdrawal
+ 26   $ 17,846.00 2016-12-08 20:13 Deposit
+ 27   $ 36,924.00 2016-12-08 20:13 Deposit
+ 28   $    368.00 2016-12-08 20:16 Wire Transfer From ABC100018
+ 29   $    309.00 2016-12-08 20:18 Wire Transfer From ABC100041
+ 30   $   -252.00 2016-12-08 20:20 Wire Transfer To ABC100025
+ 31   $    -73.00 2016-12-08 20:20 Bill payment for Gardening Service
+ 32   $    -94.00 2016-12-08 20:20 Bill payment for Internet
+ 33   $ 10,763.00 2016-12-08 20:20 Deposit
+ 34   $    271.00 2016-12-08 20:20 Wire Transfer From ABC100047
+ 35   $    -93.00 2016-12-08 20:26 Bill payment for Electricity
+ 36   $    257.00 2016-12-08 20:26 Wire Transfer From ABC100025
+ 37   $ -1,100.00 2016-12-08 20:26 Withdrawal
+ 38   $   -206.00 2016-12-08 20:26 Wire Transfer To ABC100053
+ 39   $ 41,537.00 2016-12-08 20:26 Deposit
+ 40   $    264.00 2016-12-08 20:26 Wire Transfer From ABC100084
+ 41   $ -8,700.00 2016-12-08 20:26 Withdrawal
+ 42   $ -5,800.00 2016-12-08 20:26 Withdrawal
+ 43   $    456.00 2016-12-08 20:26 Wire Transfer From ABC100077
+ 44   $    120.00 2016-12-08 20:26 Wire Transfer From ABC100004
+ 45   $ -1,000.00 2016-12-08 20:26 Withdrawal
+ 46   $    250.00 2016-12-08 20:26 Wire Transfer From ABC100039
+ 47   $   -482.00 2016-12-08 20:26 Wire Transfer To ABC100071
+ 48   $ 48,670.00 2016-12-08 20:26 Deposit
+ 49   $    225.00 2016-12-08 20:26 Wire Transfer From ABC100058
+ 50   $    100.00 2016-12-08 20:26 Wire Transfer From ABC100061
+ 51   $ 48,864.00 2016-12-08 20:26 Deposit
+ 52   $   -184.00 2016-12-08 20:26 Wire Transfer To ABC100065
+ 53   $  2,491.00 2016-12-08 20:26 Deposit
+ 54   $    -85.00 2016-12-08 20:26 Bill payment for Gardening Service
+ 55   $ -9,100.00 2016-12-08 20:26 Withdrawal
+ 56   $    431.00 2016-12-08 20:26 Wire Transfer From ABC100022
+ 57   $   -204.00 2016-12-08 20:26 Wire Transfer To ABC100011
+ 58   $    -77.00 2016-12-08 20:26 Bill payment for Internet
+ 59   $    -89.00 2016-12-08 20:26 Bill payment for Phone
+ 60   $   -142.00 2016-12-08 20:26 Wire Transfer To ABC100061
+ 61   $ 43,661.00 2016-12-08 20:26 Deposit
+ 62   $ -5,000.00 2016-12-08 20:26 Withdrawal
+ 63   $    -72.00 2016-12-08 20:26 Bill payment for Phone
+ 64   $ -6,700.00 2016-12-08 20:26 Withdrawal
+ 65   $ -6,900.00 2016-12-08 20:26 Withdrawal
+ 66   $ -2,500.00 2016-12-08 20:26 Withdrawal
+ 67   $ 11,110.00 2016-12-08 20:26 Deposit
+ 68   $   -169.00 2016-12-08 20:26 Wire Transfer To ABC100005
+ 69   $ 18,193.00 2016-12-08 20:26 Deposit
+ 70   $    149.00 2016-12-08 20:27 Wire Transfer From ABC100041
+ 71   $ 40,616.00 2016-12-08 20:27 Deposit
+ 72   $ -3,200.00 2016-12-08 20:27 Withdrawal
+ 73   $    -75.00 2016-12-08 20:27 Bill payment for Phone
+ 74   $    -58.00 2016-12-08 20:27 Bill payment for Phone
+ 75   $   -117.00 2016-12-08 20:27 Wire Transfer To ABC100067
+ 76   $   -185.00 2016-12-08 20:27 Wire Transfer To ABC100022
+ 77   $   -478.00 2016-12-08 20:27 Wire Transfer To ABC100022
+ 78   $ 31,087.00 2016-12-08 20:27 Deposit
+ 79   $ 45,488.00 2016-12-08 20:27 Deposit
+ 80   $    -85.00 2016-12-08 20:27 Bill payment for Gardening Service
+ 81   $    457.00 2016-12-08 20:27 Wire Transfer From ABC100022
+ 82   $ 23,949.00 2016-12-08 20:27 Deposit
+ 83   $ 49,389.00 2016-12-08 20:27 Deposit
+ 84   $   -177.00 2016-12-08 20:27 Wire Transfer To ABC100020
+ 85   $    239.00 2016-12-08 20:27 Wire Transfer From ABC100000
+ 86   $    378.00 2016-12-10 17:52 Wire Transfer From ABC100048
+ 87   $    -57.00 2016-12-10 17:52 Bill payment for Phone
+ 88   $ 16,573.00 2016-12-10 17:52 Deposit
+ 89   $ -6,200.00 2016-12-10 17:52 Withdrawal
+ 90   $ -3,900.00 2016-12-10 17:52 Withdrawal
+ 91   $ 33,011.00 2016-12-10 17:52 Deposit
+ 92   $   -100.00 2016-12-10 17:52 Bill payment for Magazine Subscription
+ 93   $   -130.00 2016-12-10 17:52 Wire Transfer To ABC100079
+ 94   $    369.00 2016-12-10 17:52 Wire Transfer From ABC100048
+ 95   $ 24,998.00 2016-12-10 17:52 Deposit
+ 96   $    -60.00 2016-12-10 17:52 Bill payment for Magazine Subscription
+ 97   $   -161.00 2016-12-12 17:59 Wire Transfer To ABC100066
+ 98   $    -62.00 2016-12-12 17:59 Bill payment for Gardening Service
+ 99   $    -59.00 2016-12-12 17:59 Bill payment for Electricity
+100   $   -100.00 2016-12-12 18:00 Bill payment for Water
+101   $ -1,400.00 2016-12-12 19:13 Withdrawal
+102   $ -7,600.00 2016-12-12 19:14 Withdrawal
+103   $    -78.00 2016-12-12 19:21 Bill payment for Water
+104   $   -493.00 2016-12-29 15:43 Wire Transfer To ABC100078
+105   $ -8,500.00 2016-12-29 15:43 Withdrawal
+106   $   -500.00 2016-12-29 15:43 Wire Transfer To ABC100076
+107   $    315.00 2017-01-04 08:16 Wire Transfer From ABC100008
+108   $ -9,400.00 2017-01-04 08:16 Withdrawal
+109   $ -6,300.00 2017-01-04 08:16 Withdrawal
+       _________
+$      630,311.00  :Total Balance
